@@ -1,1 +1,3 @@
-Scraped 5 youtube channels using youtube API and analysed and visualised them  and then analysed all the videos made by Ken Jen channel. 
+1.Scraped 5 YouTube Channels(Ken Jee,Alex The Analyst,Tina Huang,Luke Barousse,techTfQ) using YouTube API.
+2.Analysed and visualised these 5 Youtube Channels ,drew conclusions.
+3.Scraped all the videos from Ken Jee channel and analysed those.
